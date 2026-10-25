@@ -1,0 +1,7 @@
+*.bak*
+*~
+.DS_Store
+.env
+**/local.fish
+**/fish_variables
+**/fish_history
